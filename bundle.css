@@ -1,0 +1,35 @@
+.frm-controls__txt-custom {
+  display: inline-block;
+  vertical-align: top; }
+  .frm-controls__txt-custom label {
+    display: block; }
+  .frm-controls__txt-custom .sld-module {
+    width: 300px;
+    display: inline-block; }
+  .frm-controls__txt-custom input {
+    display: inline-block;
+    margin-left: 15px;
+    width: 70px;
+    font-size: 22px;
+    text-align: right;
+    padding: 2px 8px; }
+.frm-controls {
+  padding: 10px;
+  float: left;
+  width: 415px;
+  box-sizing: border-box; }
+.three-scene {
+  float: left;
+  width: calc(100% - 415px - 2px);
+  min-width: 500px;
+  border: 1px solid #C5C5C5;
+  max-width: 800px; }
+
+.svg-container {
+  margin-left: 415px;
+  width: calc(100% - 415px - 2px);
+  min-width: 300px;
+  border: 1px solid #C5C5C5;
+  max-width: 800px; }
+
+/*# sourceMappingURL=bundle.css.map*/
